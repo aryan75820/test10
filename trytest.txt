@@ -1,2 +1,4 @@
 name pawar	
 address 1000
+
+channel name pawar ji gaming
